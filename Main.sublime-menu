@@ -1,0 +1,10 @@
+[
+    {
+        "id": "view",
+        "children":
+        [
+            {"id": "full_screen"},
+            {"command": "toggle_theme"}
+        ]
+    }
+]
